@@ -1,0 +1,15 @@
+.\drawing.o: Drawing.c
+.\drawing.o: Drawing.h
+.\drawing.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\drawing.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+.\drawing.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\drawing.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+.\drawing.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+.\drawing.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+.\drawing.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+.\drawing.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\drawing.o: RIT/RIT.h
+.\drawing.o: timer/timer.h
+.\drawing.o: GLCD/GLCD.h
+.\drawing.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\drawing.o: sound/music.h
